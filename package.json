@@ -16,7 +16,7 @@
     "express-session": "^1.15.1",
     "lodash": "^4.17.4",
     "mongodb": "^2.2.30",
-    "morgan": "~1.7.0",
+    "morgan": "~1.9.1",
     "nedb": "^1.8.0",
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.1",
